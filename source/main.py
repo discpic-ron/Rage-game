@@ -14,6 +14,7 @@ dealer = Dealer()
 # colors
 black = (0,0,0)
 
+# functions
 def hand_value(hand):
   value = 0
   for card in hand:
